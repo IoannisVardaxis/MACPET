@@ -1,4 +1,6 @@
 #include <Rcpp.h>
+#include <cfloat>
+
 using namespace Rcpp;
 
 //####################################################
